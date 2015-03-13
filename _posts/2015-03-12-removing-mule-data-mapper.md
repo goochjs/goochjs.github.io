@@ -11,7 +11,9 @@ image:
   creditlink: http://http://www.morguefile.com/
 ---
 
-If you are using Mule CE, then the wonders of the [Mule Data Mapper][MuleDataMapper] will be out of your reach.  It remains temptingly available in the IDE toolkit, however, and if you inadvertently drop it onto one of your flows then you will be unable to run your app until you have purged it ...and, alas, merely deleting the icon isn't quite enough.  This is what you have to do:-
+If you are using Mule CE, then the wonders of the [Mule Data Mapper][MuleDataMapper] will be out of your reach.  It remains temptingly available in the IDE toolkit, however, and if you inadvertently drop it onto one of your flows then you will be unable to run your app until you have purged it.
+
+...and, alas, merely deleting the icon isn't always quite enough.  If it's still complaining about Data Mapper being in your project, but you think you've deleted it, then this is what you have to do:-
 
 First, remove the Data Mapper from all flows.
 
