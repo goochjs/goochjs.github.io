@@ -6,9 +6,9 @@ excerpt: "How to install and run a sample Mule project."
 comments: true
 tags: [integration,mule,activemq,opensource]
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: muletrain.jpg
+  credit: David Nakayama
+  creditlink: https://www.flickr.com/photos/dnak/
 ---
 
 
