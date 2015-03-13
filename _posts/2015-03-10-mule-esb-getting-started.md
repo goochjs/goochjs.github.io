@@ -234,7 +234,7 @@ To stop ActiveMQ and the standalone Mule, you just need to *Ctrl-C* each of thei
 [MuleProject]: https://github.com/goochjs/mule-message-injector
 [MEL]: http://www.mulesoft.org/documentation/display/current/Mule+Expression+Language+MEL
 [ActiveMQ]: http://activemq.apache.org/
-[BrassMoustaches]: https://goochgooch.wordpress.com/2014/07/25/brass-moustache/
+[BrassMoustaches]: /2014/07/25/brass-moustache
 [MuleDownload]: http://www.mulesoft.org/download-mule-esb-community-edition
 [ActiveMQDownload]: http://activemq.apache.org/activemq-5111-release.html
 [JavaDownload]: http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html

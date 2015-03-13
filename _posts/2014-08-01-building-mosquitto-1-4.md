@@ -95,7 +95,7 @@ And then...
     make test
     sudo make install
     
-If need be, [edit or create your config file]]MosquittoConfig] and create the service user ID.
+If need be, [edit or create your config file][MosquittoConfig] and create the service user ID.
 
     sudo vi /etc/mosquitto/mosquitto.conf
     sudo useradd -r -m -d /var/lib/mosquitto -s /usr/sbin/nologin -g nogroup mosquitto

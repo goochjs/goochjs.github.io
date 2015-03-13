@@ -18,5 +18,5 @@ image:
 <em>First known usage in context of unpredictable IT issues</em> - the mighty [Kevin Shute][KevinShute].
 
 
-[BrassEye]: http://en.wikipedia.org/Brass_Eye
+[BrassEye]: http://en.wikipedia.org/wiki/Brass_Eye
 [KevinShute]: https://en-gb.facebook.com/kevin.shute
