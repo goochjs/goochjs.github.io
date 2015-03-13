@@ -2,7 +2,8 @@
 
 title:            this is a blog
 locale:           en_GB
-url:              http://localhost:4000
+url:              http://goochjs.github.io/
+#url:              http://localhost:4000
 
 
 # Jekyll configuration
