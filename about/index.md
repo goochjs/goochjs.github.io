@@ -11,7 +11,7 @@ image:
 
 I'm an Integration Architect. This means that I work in IT and am adept at getting different systems talking to one another.  I've been doing this for years, working both in financial services and retail.  I'm also the co-founder of the sports social site [Huwun][Huwun].
 
-This blog aims to provide the sort of useful help I would personally have found useful and which I was unable to find.
+This blog aims to provide the sort of help I would personally have found useful and which I was unable to find when I was scrabbling around, trying to get something to work.
 
 In my spare time, I play the guitar.  After 25 years of raucous volume, I now predominantly play as part of an acoustic duo, imaginatively entitled [Natalie and Jeremy][NatalieAndJeremy].
 
@@ -23,8 +23,7 @@ Amongst other places, you can find me on [Twitter][Twitter], [Facebook][Facebook
 
 
 [Huwun]: http://www.huwun.com
+[Twitter]: https://twitter.com/goochjs
 [Facebook]: https://www.facebook.com/goochjs
 [LinkedIn]: https://www.linkedin.com/in/jeremygooch
 [NatalieAndJeremy]: http://www.natalieandjeremy.co.uk
-[TLAs]: https://en.wikipedia.org/wiki/Three-letter_acronym
-[Twitter]: https://twitter.com/goochjs
