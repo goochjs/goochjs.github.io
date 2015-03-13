@@ -1,13 +1,14 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
+title:            this is a blog
+locale:           en_GB
+url:              http://localhost:4000
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+#permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -26,32 +27,32 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Jeremy Gooch
+  avatar: j_guitar_edited.jpg
+  bio: "Guitarist and IT architect"
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: goochjs
+  facebook: goochjs
+  youtube: goochjs
   google:
-    plus: #username
-    analytics: 
+    plus: JeremyGooch
+    analytics: UA-60678522-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: goochjs
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: jeremygooch
   xing: #username
-  instagram: #username
-  lastfm: #username
+  instagram: goochjs
+  lastfm: goochjs
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
   soundcloud: #username
   weibo: #username
   flickr: #username

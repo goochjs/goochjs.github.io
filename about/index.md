@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,16 +10,22 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I'm an Integration Architect. This means that I work in IT and am adept at getting different systems talking to one another.  I've been doing this for years, working both in financial services and retail.  I'm also the co-founder of the sports social site [Huwun][Huwun].
 
-## Minimal Mistakes is all about:
+This blog aims to provide the sort of useful help I would personally have found useful and which I was unable to find.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+In my spare time, I play the guitar.  After 25 years of raucous volume, I now predominantly play as part of an acoustic duo, imaginatively entitled [Natalie and Jeremy][NatalieAndJeremy].
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+
+## Contact Me
+
+Amongst other places, you can find me on [Twitter][Twitter], [Facebook][Facebook] and [LinkedIn][LinkedIn].
+
+
+
+[Huwun]: http://www.huwun.com
+[Facebook]: https://www.facebook.com/goochjs
+[LinkedIn]: https://www.linkedin.com/in/jeremygooch
+[NatalieAndJeremy]: http://www.natalieandjeremy.co.uk
+[TLAs]: https://en.wikipedia.org/wiki/Three-letter_acronym
+[Twitter]: https://twitter.com/goochjs
