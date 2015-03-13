@@ -20,6 +20,7 @@ I needed to get [Mule][Mule] working on my Windows laptop and wanted to explore 
 ### Project overview
 
 The project consists of two flows.
+
 1. The main flow, presenting an HTTP endpoint, which routes incoming calls depending on whether they are POSTs or not.  The POSTs are sent to a JMS queue, called `muleMessage`.  All other requests are responded to as if they are GETs.
 2. A JMS request-response service, using a ReplyTo queue.
 
