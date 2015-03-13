@@ -7,7 +7,7 @@ comments: true
 tags: [scripts,perl,python]
 image:
   feature: wall.jpg
-  credit: goochjs
+  credit: Jeremy Gooch
 ---
 
 

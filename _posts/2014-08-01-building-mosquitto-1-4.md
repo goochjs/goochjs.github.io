@@ -6,9 +6,9 @@ excerpt: "How to build the Mosquitto MQTT broker."
 comments: true
 tags: [general]
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: mosquito.jpg
+  credit: John Tann
+  creditlink: https://www.flickr.com/photos/31031835@N08/
 ---
 
 {% include _toc.html %}
