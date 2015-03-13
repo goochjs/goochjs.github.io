@@ -32,9 +32,9 @@ owner:
   avatar: j_guitar_edited.jpg
   bio: "Guitarist and IT architect"
   email: 
-  disqus-shortname: 
   twitter: goochjs
   facebook: goochjs
+  linkedin: jeremygooch
   youtube: goochjs
   google:
     plus: JeremyGooch
@@ -42,19 +42,19 @@ owner:
     verify: 
     ad-client: 
     ad-slot: 
-  bing-verify: 
-  github: goochjs
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: jeremygooch
-  xing: #username
   instagram: goochjs
   lastfm: goochjs
+  soundcloud: goochjs
+  bing-verify: 
+  github: goochjs
+  stackoverflow: http://stackoverflow.com/users/1829190/jeremy-gooch
+  xing: #username
+  disqus-shortname: jeremygooch
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  soundcloud: #username
   weibo: #username
   flickr: #username
 
