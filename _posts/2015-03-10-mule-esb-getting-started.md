@@ -32,7 +32,7 @@ Versions used:-
 
 * Windows 7 64-bit
 * Anypoint Studio 5.0.0
-* Mule ESB 3.6.1 Community Runtime
+* Mule ESB 3.4.0 Community Runtime
 * ActiveMQ 5.11.1
 * Java 1.70_75
 
