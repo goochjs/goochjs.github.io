@@ -74,7 +74,6 @@ Your mileage may vary...
     cd <SRC>   # i.e. your source code home
     
     cd mosquitto/
-    hg pull &amp;&amp; hg update 1.4</del>
     git clone https://git.eclipse.org/r/mosquitto/org.eclipse.mosquitto
     cd org.eclipse.mosquitto/
     git checkout origin/1.4
@@ -169,16 +168,6 @@ Mine was in /usr/local/lib64/libwebsockets.so
     sudo ldconfig
     
 ...and try the test again.
-
-
-### Public key error when cloning Bitbucket repo
-
-If you get an error when cloning the Bitbucket repository, such as:-
-
-    remote: Permission denied (publickey).
-    abort: no suitable response from remote hg!    
-
-...then you might need to [load your public key into Bitbucket][LoadPublicKey].
 
 
 
