@@ -39,11 +39,11 @@ Travelling up to the Lake District on Thursday morning meant time for one of the
 - *Walking time*: 9.5 hrs
 - *Difficulty*: Very tough
 - *Lunch*: packed lunch bought in Coniston
-- *Accommodation*: [The Wasdale Head Inn]
+- *Accommodation*: [Lingmell House B&B]
 
 ![Map Coniston to Wasdale Head](/images/map-coniston-wasdale-head.png)
 
-This day started off going over the Old Man of Coniston, which is steep and sudden but with dramatic views from the top.  We then headed down the other side to cross to Harter Fell, which half of our party went over and half went around, meeting again at the [Woolpack] Inn.  We then pushed on for the last 5.5 miles over to Wasdale Head.
+This day started off going over the Old Man of Coniston, which is steep and sudden but with dramatic views from the top.  We then headed down the other side to cross to Harter Fell, which half of our party went over and half went around, meeting again at the [Woolpack] Inn.  We then pushed on for the last 5.5 miles over to finish at [The Wasdale Head Inn].
 
 We did this walk in mid-October.  We were very lucky with the weather but the slightly shorter days meant that our walk into Wasdale Head came in after dusk (having set off in the morning a bit later than planned).
 
@@ -54,6 +54,7 @@ We did this walk in mid-October.  We were very lucky with the weather but the sl
 - *Walking time*: 9.5 hrs
 - *Difficulty*: **Really** tough
 - *Lunch*: packed lunch bought from [The Wasdale Head Inn]
+- *Accommodation*: [Grasmere Youth Hostel]
 
 ![Map Wasdale Head Grasmere](/images/map-wasdale-head-grasmere.png)
 
@@ -76,3 +77,5 @@ A relatively straightforward walk with only a smallish climb to cross between th
 [The Sun Inn]: http://thesunconiston.com/
 [Woolpack]: http://www.woolpack.co.uk/
 [The Wasdale Head Inn]: http://www.wasdale.com/
+[Lingmell House B&B]: http://www.wasdale.com/11.html
+[Grasmere Youth Hostel]: http://www.yha.org.uk/hostel/grasmere-butharlyp-howe
