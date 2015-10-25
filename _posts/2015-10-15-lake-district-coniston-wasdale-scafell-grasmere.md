@@ -4,7 +4,7 @@ title: Lake District - Coniston and around
 excerpt: "Three to four days, three to four Lakeland mountains"
 comments: true
 date: 2015-10-22 07:37:55 +01:00
-tags: [walking,lakes]
+tags: [walking,lakes,cumbria]
 image:
   feature: coniston-old-man-panorama.jpg
   credit: Jeremy Gooch
