@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dales Way - Ilkley to Ribblehead
-excerpt: "First half of the Dales Way"
+excerpt: "First half of the Dales Way."
 comments: true
 tags: [walking,dales,yorkshire]
 image:
@@ -9,9 +9,9 @@ image:
   credit: Jeremy Gooch
 ---
 
-The Dales Way runs from Ilkley to Bowness on Windermere, crossing the Yorkshire Dales and into the Lake District.  We did the first half over three days, ending at Ribblehead.  On the whole it is relatively gentle, mostly following the river Wharfe before dropping down towards Ribblehead on the Pennine Way.
+The Dales Way runs from Ilkley to Bowness on Windermere, crossing the Yorkshire Dales and into the Lake District.  We did the first half over three days, ending at Ribblehead.  Overall it is relatively gentle and very pretty, mostly following the river Wharfe before dropping down towards Ribblehead on the Pennine Way.
 
-At the time we did the walk, [Wharfedale Brewery] were running a promotion [The Ales Way], wherein they had flagged a number of pubs along the way, providing a card to be stamped at each one visited.  We made it to eleven of them...
+At the time we did the walk, [Wharfedale Brewery] were running a promotion ("[The Ales Way]"), wherein they had flagged a number of pubs along the way, providing a card to be stamped at each one visited.  We made it to eleven of them...
 
 To get started, we drove to Ribblehead, leaving the car in [The Station Inn] and taking a train south to Skipton.  From there, we took a taxi (£20) to the start of the walk at Ilkley.
 
@@ -24,10 +24,9 @@ On the Thursday night, we stayed in [The Dalesway Hotel] in Ilkley.
 
 # Friday - Ilkley to Grassington
 
-- *Distance*: xx.x miles
-- *Height gain*: do i know this ft
-- *Walking time*: x.x hrs
-- *Difficulty*: tbc
+- *Distance*: 17.75 miles
+- *Walking time*: 8.5 hrs
+- *Difficulty*: Tough
 - *Lunch*: Strid Wood Tea Rooms, [Bolton Abbey]
 - *Accommodation*: [The Devonshire Hotel]
 
@@ -36,10 +35,9 @@ The beginning of the day was a little unpromising, as it takes a couple of miles
 
 # Saturday - Grassington to Buckden
 
-- *Distance*: xx.x miles
-- *Height gain*: do i know this ft
-- *Walking time*: x.x hrs
-- *Difficulty*: tbc
+- *Distance*: 13.5 miles
+- *Walking time*: 6.0 hrs
+- *Difficulty*: Medium
 - *Lunch*: [The Blue Bell Inn], Kettlewell
 - *Accommodation*: [The Buck Inn]
 
@@ -48,10 +46,9 @@ This day was a little shorter than we had hoped.  We wanted to stay in [The Geor
 
 # Sunday - Buckden to Ribblehead
 
-- *Distance*: xx.x miles
-- *Height gain*: do i know this ft
-- *Walking time*: x.x hrs
-- *Difficulty*: tbc
+- *Distance*: 13.75 miles
+- *Walking time*: 7.0 hrs
+- *Difficulty*: Medium/Tough
 - *Lunch*: [The Station Inn]
 
 On the last day, the Dales Way took us away from the river and up into the hills, across the side of a picturesque valley, before picking up the Pennine Way.  This turns into a wide track for quite a long descent to the road up from Ribblehead, along which we had to walk in order to get back to the car (and some food).
