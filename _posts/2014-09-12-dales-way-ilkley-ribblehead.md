@@ -5,7 +5,7 @@ excerpt: "First half of the Dales Way."
 comments: true
 tags: [walking,dales,yorkshire]
 image:
-  feature: coniston-old-man-panorama.jpg
+  feature: strid.jpg
   credit: Jeremy Gooch
 ---
 
