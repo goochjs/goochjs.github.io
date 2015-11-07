@@ -30,7 +30,7 @@ We took a taxi to the start of the walk, where the Grand Union Canal cuts throug
  
 Bedfordshire may be mostly flat but this was a long day's walk.  After trekking alongside the Grand Union Canal out of Leighton Buzzard, the trail took us into [Rushmere Park] and onto Woburn.  This is just under halfway but the most convenient spot for lunch.
 
-We then walked through the [deer park] and past the abandoned Segenhoe church at Ridgmont.  After this we found that the route had moved from the maps we had in order to cross the M1 slightly further north.
+Once fed and watered, we walked through the [deer park] and past the abandoned Segenhoe church at Ridgmont.  After this we found that the route had moved from the maps we had in order to cross the M1 slightly further north.
 
 The walk then headed towards Ampthill Great Park, passing the [Milbrook Proving Ground], a frequent location for [Top Gear].
 
@@ -47,7 +47,7 @@ The ridge was not always in evidence during the first day's walk, but it really 
 
 After leaving Ampthill and passing Kings Wood, a favourite hunting ground of Henry VIII, the route passes another ruined church, this time St Mary's at Clophill - infamous for black masses in the 1960s and 70s.  It then skirts Chicksands Wood at Shefford, after which we stopped for lunch.
 
-The walk then goes directly along the edge of the ridge for a few miles.  To the left a vale stretches north, with views to Bedford and beyond, dominated in parts by the old [airship hangars] at Cardington (home of the [R101] and now where many Hollywood films are made).  The hills to the south roll for a few miles, eventually turning into the Chilterns.
+A little while after leaving Haynes, the trail goes directly along the edge of the ridge for a few miles.  To the left a vale stretches north, with views to Bedford and beyond, dominated in parts by the old [airship hangars] at Cardington (home of the [R101] and now where many Hollywood films are made).  The hills to the south roll for a few miles, eventually turning into the Chilterns.
 
 
 # Sunday - Sandy to Gamlingay
@@ -56,7 +56,7 @@ The walk then goes directly along the edge of the ridge for a few miles.  To the
 - *Walking time*: x.0 hrs
 - *Difficulty*: Easy
 
-The last day is a simple countryside stroll from Sandy into Gamlingay.
+The last day was a simple countryside stroll from Sandy into Gamlingay.
 
 
 [The Greensand Ridge]: http://greensandtrust.org/GreensandRidge.html

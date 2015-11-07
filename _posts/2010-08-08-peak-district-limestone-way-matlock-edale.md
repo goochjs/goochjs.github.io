@@ -82,7 +82,7 @@ The post-lunch part of the walk having been extremely pleasant we then had an al
 
 ![Map Peak Forest to Edale](/images/map-peak-forest-edale.png)
 
-This day was quite a bit shorter than the previous two and took us over Mam Tor and along Great Ridge to Hollins Cross, with its magnificent views before dropping into Edale where we had a celebratory drink in [The Rambler Inn] before driving back to Matlock to collect the other car on the way home.
+This day was quite a bit shorter than the previous two and took us over Mam Tor and along Great Ridge to Hollins Cross, with its magnificent views, before dropping into Edale where we had a celebratory drink in [The Rambler Inn] before driving back to Matlock to collect the other car on the way home.
 
 
 

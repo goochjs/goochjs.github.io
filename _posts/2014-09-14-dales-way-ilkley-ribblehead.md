@@ -13,7 +13,7 @@ The Dales Way runs from Ilkley to Bowness on Windermere, crossing the Yorkshire 
 
 At the time we did the walk, [Wharfedale Brewery] were running a promotion ("[The Ales Way]"), wherein they had flagged a number of pubs along the route, providing a card to be stamped at each one visited.  We made it to eleven of them...
 
-To get started, we drove to Ribblehead, leaving the car in [The Station Inn] and taking a train south to Skipton.  From there, we took a taxi (£20) to the start of the walk at Ilkley.
+To get started, we drove to Ribblehead, leaving the car at [The Station Inn] and taking a train south to Skipton.  From there, we took a taxi (£20) to the start of the walk at Ilkley.
 
 On the Thursday night, we stayed in [The Dalesway Hotel] in Ilkley.
 

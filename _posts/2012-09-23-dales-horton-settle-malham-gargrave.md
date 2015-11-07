@@ -56,7 +56,7 @@ Lunch was in the marvellously-named [Craven Heifer], after which it was a relati
 
 There was a steep climb out of Settle but then we found ourselves in amongst some rocky crags cutting between the hills.  It was extremely peaceful and felt very remote only a couple of miles after leaving town.  A definite highlight.
 
-The route took us over some moorland, with Pen-y-ghent clearly visible to the north, after which we picked up the Pennine Way at the top of Malham Tarn.  Having had a somewhat large curry the night before in Settle, none of us were particularly hungry, so we grabbed an ice cream from the van at the car park on the other side of the Tarn and headed down Ing Scar until it came out at the top of Malham Cove.
+The route took us onto moorland with Pen-y-ghent clearly visible to the north, after which we picked up the Pennine Way at the top of Malham Tarn.  Having had a somewhat large curry the night before in Settle, none of us were particularly hungry, so we grabbed an ice cream from the van at the car park on the other side of the Tarn and headed down Ing Scar until it came out at the top of Malham Cove.
 
 ![Malham Cove](/images/malham-cove.jpg)
 

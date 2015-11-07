@@ -14,6 +14,8 @@ This was a quite demanding triangular walk from Coniston, taking in three notabl
 
 We drove to and from the Lakes; [The Sun Inn] at Coniston kindly allowed us to leave our cars in their car park for the weekend.
 
+It was quite surprising how little evidence there is on the ground for many of the paths marked on the OS's Explorer maps.  A compass and the [Ordnance Survey]'s smartphone app were frequently used but we still somewhat meandered across a few of the hill sides.
+
 - *Day 1*: half day circular walk from Coniston
 - *Day 2*: Coniston to Wasdale Head, over the Old Man and via the Woolpack
 - *Day 3*: Wasdale Head to Grasmere, over Scafell Pike and High Raise
@@ -32,6 +34,7 @@ We drove to and from the Lakes; [The Sun Inn] at Coniston kindly allowed us to l
 
 Travelling up to the Lake District on Thursday morning meant time for one of the numerous circular walks from Coniston in the afternoon.  Hawkshead and back is a possibility or just north-east of Coniston is Tarn Hows, to which we rambled over some pleasant countryside and along part of the Cumbria Way.
 
+
 # Friday - Coniston to Wasdale Head
 
 - *Distance*: 16.5 miles
@@ -43,7 +46,11 @@ Travelling up to the Lake District on Thursday morning meant time for one of the
 
 ![Map Coniston to Wasdale Head](/images/map-coniston-wasdale-head.png)
 
-This day started off going over the Old Man of Coniston, which is steep and sudden but with dramatic views from the top.  We then headed down the other side to cross to Harter Fell, which half of our party went over and half went around, meeting again at the [Woolpack] Inn.  We then pushed on for the last 5.5 miles over to finish at [The Wasdale Head Inn].
+This day started off going over the Old Man of Coniston, which is a steep and sudden climb but with dramatic views.  We then headed down the other side into the valley, ignoring the inviting ridge to the north.  This was the first time we discovered how marginal some of the Lake District's paths are, as we all spread out across the hill in search of the track.
+
+Taking the path to the north of Seathwaite Tarn,  we headed across the valley to Harter Fell, which half of our party went over and half went around, meeting again at the [Woolpack] Inn in Eskdale.  We then pushed on for the last 5.5 miles over the moor to finish at [The Wasdale Head Inn].
+
+![Burnmoor Tarn](/images/burnmoor-tarn.jpg)
 
 We did this walk in mid-October.  We were very lucky with the weather but the slightly shorter days meant that our walk into Wasdale Head came in after dusk (having set off in the morning a bit later than planned).
 
@@ -60,7 +67,12 @@ We did this walk in mid-October.  We were very lucky with the weather but the sl
 
 There are two mountains on this route - Scafell Pike and High Raise.  The former is quite a formidable upwards hike, the latter a rocky descent.  In between is some beautifully wild Lakeland countryside.
 
-Near the top, Scafell Pike presents itself as a rocky escarpment.  Normal people follow the path to the left.  We went up the scree slope to the right, however, which is very very steep, particularly when carrying a backpack.
+Near the top of the climb from Wasdale, Scafell Pike presents itself as a rocky cliff.  Normal people follow the path to the left.  We scrambled up the loose, stony slope to the right, however, which is very very steep particularly when carrying a backpack.  Some of us found it exhilarating ...alas, I did not.
+
+From the top of Scafell Pike it was a tough and rocky walk, guided by cairns, towards Great End.  Our route dropped downhill before we reached it, however, and headed towards Angle Tarn.  Here, we turned left to cross the Cumbria Way, doglegging left then right across it, as the map was again inaccurate.
+
+We took the path up High Raise, which is green, steep, unrelenting and high.  Under blue sky, with clouds in the valley below and with a cold wind cutting across the large and flat summit, we had to again use a compass to get ourselves over to where a long and rocky descent took us down to Easedale Tarn.  The path was then easier down into the valley and onto Grasmere.
+
 
 # Sunday - Grasmere to Coniston
 
@@ -71,9 +83,10 @@ Near the top, Scafell Pike presents itself as a rocky escarpment.  Normal people
 
 ![Map Grasmere Coniston](/images/map-grasmere-coniston.png)
 
-A relatively straightforward walk with only a smallish climb to cross between the Langdales from Grasmere.
+Our final day was a relatively straightforward walk with only a smallish climb to cross between the Langdales from Grasmere.
 
 
+[Ordnance Survey]: http://www.ordnancesurvey.co.uk/
 [The Sun Inn]: http://thesunconiston.com/
 [Woolpack]: http://www.woolpack.co.uk/
 [The Wasdale Head Inn]: http://www.wasdale.com/
