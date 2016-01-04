@@ -37,8 +37,8 @@ The walk then headed towards Ampthill Great Park, passing the [Milbrook Proving 
 
 # Saturday - Ampthill to Sandy
 
-- *Distance*: xx.x miles
-- *Walking time*: x.0 hrs
+- *Distance*: 16.0 miles
+- *Walking time*: 7.0 hrs
 - *Difficulty*: Medium
 - *Lunch*: [The Greyhound], Haynes
 - *Accommodation*: [Holiday Inn]
@@ -52,8 +52,8 @@ A little while after leaving Haynes, the trail goes directly along the edge of t
 
 # Sunday - Sandy to Gamlingay
 
-- *Distance*: x.xx miles
-- *Walking time*: x.0 hrs
+- *Distance*: 7.0 miles
+- *Walking time*: 2.5 hrs
 - *Difficulty*: Easy
 
 The last day was a simple countryside stroll from Sandy into Gamlingay.

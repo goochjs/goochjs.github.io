@@ -9,7 +9,7 @@ image:
   credit: Jeremy Gooch
 ---
 
-The Dales Way runs from Ilkley to Bowness on Windermere, crossing the Yorkshire Dales and into the Lake District.  We did the first half over three days, ending at Ribblehead.  Overall it is relatively gentle and very pretty, mostly following the river Wharfe before dropping down towards Ribblehead on the Pennine Way.
+[The Dales Way] runs from Ilkley to Bowness on Windermere, crossing the Yorkshire Dales and into the Lake District.  We did the first half over three days, ending at Ribblehead.  Overall it is relatively gentle and very pretty, mostly following the river Wharfe before dropping down towards Ribblehead on the Pennine Way.
 
 At the time we did the walk, [Wharfedale Brewery] were running a promotion ("[The Ales Way]"), wherein they had flagged a number of pubs along the route, providing a card to be stamped at each one visited.  We made it to eleven of them...
 
@@ -54,6 +54,7 @@ This day was a little shorter than we had hoped.  We wanted to stay in [The Geor
 On the last day, the Dales Way took us away from the river and up into the hills, across the side of a picturesque valley, before picking up the Pennine Way.  This turns into a wide track for quite a long descent to the road up from Ribblehead, along which we had to walk in order to get back to the car (and some food).
 
 
+[The Dales Way]: http://www.dalesway.org/
 [The Dalesway Hotel]: http://thedaleswayhotel.co.uk
 [Wharfedale Brewery]: http://www.wharfedalebrewery.com
 [The Ales Way]: http://thealesway.com/
