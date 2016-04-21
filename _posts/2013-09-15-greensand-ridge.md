@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Greensand Ridge
-excerpt: "Across Bedfordshire."
+excerpt: "The Greensand Ridge - walking across Bedfordshire"
 comments: true
 tags: [walking,bedfordshire,greensand ridge]
 image:

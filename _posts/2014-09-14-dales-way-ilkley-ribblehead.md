@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dales Way - Ilkley to Ribblehead
-excerpt: "First half of the Dales Way."
+excerpt: "Yorkshire Dales - walking the first half of the Dales Way"
 comments: true
 tags: [walking,dales,yorkshire]
 image:

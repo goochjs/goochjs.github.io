@@ -2,7 +2,7 @@
 layout: post
 title: Building Mosquitto 1.4
 modified:
-excerpt: "How to build the Mosquitto MQTT broker."
+excerpt: "How to build the Mosquitto MQTT broker on Linux"
 comments: true
 tags: [general]
 image:

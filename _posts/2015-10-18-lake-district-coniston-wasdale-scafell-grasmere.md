@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lake District - Coniston and around
-excerpt: "Three to four days, three to four Lakeland mountains."
+excerpt: "The Lake District - a circular walk over three to four days and over three to four mountains"
 comments: true
 date: 2015-10-22 07:37:55 +01:00
 tags: [walking,lakes,cumbria]

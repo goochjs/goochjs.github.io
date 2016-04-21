@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Peak District - The Limestone Way
-excerpt: "Peak District - walking the Limestone Way from Matlock to Edale."
+excerpt: "Peak District - walking the Limestone Way from Matlock to Edale"
 comments: true
 tags: [walking,peaks,derbyshire]
 image:

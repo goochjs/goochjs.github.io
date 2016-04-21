@@ -2,7 +2,7 @@
 layout: post
 title: Simple and Secure Passwords
 modified:
-excerpt: "A memorable approach to varied passwords."
+excerpt: "A memorable approach to varied passwords"
 comments: true
 tags: [security]
 image:

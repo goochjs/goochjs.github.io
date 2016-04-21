@@ -2,7 +2,7 @@
 layout: post
 title: Brass moustache
 modified:
-excerpt: "Gotcha."
+excerpt: "Gotcha"
 comments: true
 tags: [general]
 image:

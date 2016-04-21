@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yorkshire Dales - Horton to Gargrave
-excerpt: "Pen-y-ghent and the Pennine Way."
+excerpt: "Yorkshire Dales - walking over Pen-y-ghent and down part of the Pennine Way"
 comments: true
 tags: [walking,dales,yorkshire]
 image:
