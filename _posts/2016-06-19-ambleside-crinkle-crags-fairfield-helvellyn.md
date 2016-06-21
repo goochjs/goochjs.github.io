@@ -24,7 +24,7 @@ We stayed at the somewhat superior [YHA].  Although it's a mile south of the tow
 # Friday - Pike O'Blisco, Crinkle Crags and Bow Fell
 
 - *Distance*: 9 miles
-- *Height gain*: 3300ft (more if you go over Harter Fell)
+- *Height gain*: 3300ft
 - *Walking time*: 7 hrs
 - *Difficulty*: Very tough
 
