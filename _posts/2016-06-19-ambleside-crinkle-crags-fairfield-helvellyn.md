@@ -14,11 +14,11 @@ The main aim of the weekend was to do the Fairfield Horseshoe, which you can sta
 
 We stayed at the somewhat superior [YHA].  Although it's a mile south of the town centre, it has an enviable position on the shore of Lake Windermere and you can sit out front at the end of the evening ...midges and weather permitting.
 
-![Lake Windermere](/images/lake-windermere-by-night.jpg)
-
 - *Day 1*: Pike O'Blisco, Crinkle Crags and Bow Fell
 - *Day 2*: The Fairfield Horseshoe
 - *Day 3*: Helvellyn
+
+![Lake Windermere](/images/lake-windermere-by-night.jpg)
 
 
 # Friday - Pike O'Blisco, Crinkle Crags and Bow Fell
@@ -41,7 +41,7 @@ The Crags are a sequence of rocky outcrops that the path wends its way over and 
 At the end of the Crags, the path heads down a peninsula back into Langdale.  Before you take this route, however, you can go up Bow Fell.  It's not much more than an extra mile, climbing an extra 100m, but the views from the top are wonderful - out to sea and Scafell as well as back over Langdale.  My mobile phone decided to start roaming at this point, as it picked up the signal from the Isle Of Man.
 
 
-# The Fairfield Horseshoe
+# Saturday - The Fairfield Horseshoe
 
 - *Distance*: 12.5 miles
 - *Height gain*: 3100ft
