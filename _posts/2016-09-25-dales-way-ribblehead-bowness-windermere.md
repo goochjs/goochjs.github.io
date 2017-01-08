@@ -19,7 +19,7 @@ As seems now usual on these weekends, we arrived in time on Thursday to add a ci
 - *Day 1*: Ingleborough circular walk from Ribblehead
 - *Day 2*: Ribblehead to Sedbergh
 - *Day 3*: Sedbergh to Burneside
-- *Day 3*: Burneside to Bowness-on-Windermere
+- *Day 4*: Burneside to Bowness-on-Windermere
 
 
 # Thursday - Ingleborough circular walk from Ribblehead
@@ -68,13 +68,13 @@ After a relatively-leisurely sandwich, we picked up the River Dee, following it 
 
 ![Map Sedbergh to Burneside](/images/map-sedbergh-burneside.png)
 
-The next stage of the walk had nowhere obvious to stop for lunch, so we bought sandwiches from a small deli on Main Street in Sedbergh.  The group then split into two, as some of us wanted to follow the official Dales Way whereas some fancied a climb so headed north instead, into the Howgill Fells (albeit only until the first peak, however, after which they turned west to meet the rest of us as we came up the official route).  As it happened, the hill walkers had an easy time, as it was a good couple of miles shorter.
+The next stage of the walk had nowhere obvious to stop for lunch, so we bought sandwiches from a small deli on Main Street in Sedbergh.  The group then split into two, as some of us wanted to follow the official Dales Way whereas some fancied a climb so headed north instead, into the Howgill Fells (albeit only until the first peak, after which they turned west to meet the rest of us as we came up the official route).  As it happened, the hill walkers had an easy time, as it was a good couple of miles shorter.
 
-After we met up, the path ran north for a few miles, along the valley and passing under a ruined railway bridge and then a viaduct, before swinging south-west parallel to the M6.  It's then a mile or two before it reached a footbridge over the motorway.  Just beforehand, at the track up to a farm, we came upon a couple of benches and a cool box filled with cans of fizzy pop.  Gratefully dropping a few pounds into the honesty box, we briefly rested before pushing on westwards.
+After we met up, the path ran north for a few miles, along the valley and passing under a ruined railway bridge and then a viaduct, before swinging south-west parallel to the M6.  It was then a mile or two before it reached a footbridge over the motorway.  Just beforehand, at the track up to a farm, we came upon a couple of benches and a cool box filled with cans of fizzy pop.  Gratefully dropping a few pounds into the honesty box, we briefly rested before pushing on westwards.
 
 We waited until we were out of earshot of the M6 before stopping to eat lunch, although it was slightly curtailed due to a near-stampede of inquisitive horses.
 
-The last few miles ran most pleasantly through rolling farmland.  We had to take a short detour in order to get into Burneside, as the main road over Spring Bridge was still under repair following the floods caused by [Storm Desmond] in 2015 (NB reopened in November 2016).
+The last few miles ran most pleasantly through rolling farmland.  We had to take a short detour in order to get into Burneside, as the main road over Spring Bridge was still under repair following the floods caused by [Storm Desmond] in 2015 (NB it reopened in November 2016).
 
 There's really only one option for room and food in Burneside.  The food was very nice and the rooms very comfortable but the pub's clientele were a little lively (frequently disappearing en masse into the loos before returning with their energies lifted ...of course, we were certain the "no drugs" signs were being obeyed).
 
