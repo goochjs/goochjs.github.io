@@ -30,11 +30,11 @@ As seems now usual on these weekends, we arrived in time on Thursday to add a ci
 - *Difficulty*: Medium/tough
 - *Accommodation*: [The Station Inn], Ribbleshead
 
-![Map Ingleborough circular](/images/map-Ingleborough-circular.png)
+![Map Ingleborough circular](/images/map-ingleborough-circular.png)
 
 Like Whernside, Ingleborough is somewhat ridge-like.  Heading out from the Station Inn, we walked on the road until we were end-on to it.  Heading up the path, it climbs steeply until it reaches a lower peak, where the land spreads out.  Keeping straight on takes you to where they've recently been improving the path given the wear-and-tear from the Three Peak route.  Stone stairs here climb steeply to the summit, which is also fairly open and affords great views all around, taking in a vast swathe of the Dales and, to the west, over the Lakes District to the Irish Sea.
 
-The descent goes back down the steps and then sharply and very steeply left, down more steps on the side of the ridge.  Once down on the valley floor, the path crosses over to the road (the B6255).  When we reached it, we tried to pop into the Old Hill Inn for a swift pint but it wasn't due to open until 6:30pm.  Hiding our disappointment, we headed down the lane opposite to cross over farmland to the Ribblehead Viaduct.  The light was beginning to go and the Viaduct rather wonderfully gradually changed colour from gold to dark grey.  From here, it was only a short stroll back to the pub.
+The descent goes back down the steps and then sharply and very steeply left, down more steps on the side of the ridge.  Once down on the valley floor, the path crosses over to the road (the B6255).  When we reached it, we tried to pop into the Old Hill Inn for a swift pint but it wasn't due to open until 6:30pm.  Hiding our disappointment, we headed down the lane opposite to cross over farmland to the Ribblehead Viaduct.  The light was beginning to go and the viaduct rather wonderfully gradually changed colour from gold to dark grey.  From here, it was only a short stroll back to the pub.
 
 ![Ingleborough](/images/ingleborough.jpg)
 
@@ -49,7 +49,7 @@ The descent goes back down the steps and then sharply and very steeply left, dow
 
 ![Map Ribblehead to Sedbergh](/images/map-ribblehead-sedbergh.png)
 
-As noted above, we eschewed the official Dales Way route for a few miles in order to go over Whernside.  Although there are paths directly up it, they all looked near-vertical towards the top.  We instead followed the Three Peaks route, which loops round onto the ridge via well-maintained and relatively easy paths.  Although we'd left in sunshine, the summit was in cloud which resolutely refused to lift.
+As noted above, we eschewed the official Dales Way route for a few miles in order to go over Whernside.  Although there are paths directly up it, they all looked near-vertical towards the top.  We instead followed the Three Peaks route, which loops round onto the ridge via a well-maintained and relatively easy path.  Although we'd left in sunshine, the summit was in cloud which resolutely refused to lift.
 
 From the summit, the path went straight off the back of the hill - although nowhere near as precipitously as the Ribblehead side.  We swiftly dropped down into the valley, turning right on Thornton Lane and then into Dentdale.  It was an attractive walk across more farmland into Dent itself, where we stopped for lunch.
 
@@ -70,11 +70,11 @@ After a relatively-leisurely sandwich, we picked up the River Dee, following it 
 
 The next stage of the walk had nowhere obvious to stop for lunch, so we bought sandwiches from a small deli on Main Street in Sedbergh.  The group then split into two, as some of us wanted to follow the official Dales Way whereas some fancied a climb so headed north instead, into the Howgill Fells (albeit only until the first peak, however, after which they turned west to meet the rest of us as we came up the official route).  As it happened, the hill walkers had an easy time, as it was a good couple of miles shorter.
 
-The path runs north for a few miles, along the valley and passing under a ruined railway bridge and then a viaduct, before swinging south-west parallel to the M6.  It's then a mile or two before it reaches a footbridge over the motorway.  Just beforehand, at the track up to a farm, we came upon a couple of benches and a cool box filled with cans of fizzy pop.  Gratefully dropping a few pounds into the honesty box, we briefly rested before pushing on westwards.
+After we met up, the path ran north for a few miles, along the valley and passing under a ruined railway bridge and then a viaduct, before swinging south-west parallel to the M6.  It's then a mile or two before it reached a footbridge over the motorway.  Just beforehand, at the track up to a farm, we came upon a couple of benches and a cool box filled with cans of fizzy pop.  Gratefully dropping a few pounds into the honesty box, we briefly rested before pushing on westwards.
 
 We waited until we were out of earshot of the M6 before stopping to eat lunch, although it was slightly curtailed due to a near-stampede of inquisitive horses.
 
-The last few miles ran most pleasantly through rolling farmland.  We had to take a short detour in order to get into Burneside, as the main road over Spring Bridge was still under repair following the floods caused by Storm Desmond in 2015 (NB reopened in November 2016).
+The last few miles ran most pleasantly through rolling farmland.  We had to take a short detour in order to get into Burneside, as the main road over Spring Bridge was still under repair following the floods caused by [Storm Desmond] in 2015 (NB reopened in November 2016).
 
 There's really only one option for room and food in Burneside.  The food was very nice and the rooms very comfortable but the pub's clientele were a little lively (frequently disappearing en masse into the loos before returning with their energies lifted ...of course, we were certain the "no drugs" signs were being obeyed).
 
@@ -105,3 +105,4 @@ Feeling pleased with ourselves, we took some photos before sauntering into Bowne
 [Dales Three Peaks Challenge]: https://www.threepeakschallenge.uk/yorkshire-three-peaks-challenge/
 [The Station Inn]: http://www.thestationinn.net
 [The Dalesman Inn]: http://www.thedalesman.co.uk
+[Storm Desmond]: https://en.wikipedia.org/wiki/Storm_Desmond
