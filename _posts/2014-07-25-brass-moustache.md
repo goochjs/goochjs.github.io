@@ -4,7 +4,7 @@ title: Brass moustache
 modified:
 excerpt: "Gotcha"
 comments: true
-tags: [general]
+tags: [tech,general]
 image:
   feature: brassmoustache.jpg
   credit: TheJoyfulJewelryBox-Etsy

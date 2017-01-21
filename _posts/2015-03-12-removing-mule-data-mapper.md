@@ -4,7 +4,7 @@ title: Removing Data Mapper from Mule CE
 modified:
 excerpt: "Fixing a Mule Community Edition pom.xml file that was broken by an Enterprise Edition component"
 comments: true
-tags: [integration,mule,opensource]
+tags: [tech,integration,mule,opensource]
 image:
   feature: erasers.jpg
   credit: morgueFile

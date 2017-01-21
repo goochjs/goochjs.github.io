@@ -4,7 +4,7 @@ title: Building Mosquitto 1.4
 modified:
 excerpt: "How to build the Mosquitto MQTT broker on Linux"
 comments: true
-tags: [general]
+tags: [tech,mosquitto,mqtt,websockets,integration]
 image:
   feature: mosquito.jpg
   credit: John Tann

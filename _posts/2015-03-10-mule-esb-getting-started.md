@@ -4,7 +4,7 @@ title: Getting Started with Mule ESB and ActiveMQ on Windows
 modified:
 excerpt: "How to install and run a sample Mule project on Windows"
 comments: true
-tags: [integration,mule,activemq,opensource]
+tags: [tech,integration,mule,activemq,opensource]
 image:
   feature: muletrain.jpg
   credit: David Nakayama

@@ -4,7 +4,7 @@ title: Perl and Python through a proxy server
 modified:
 excerpt: "Script snippets in Perl and Python to allow APIs to work from inside a corporate network"
 comments: true
-tags: [scripts,perl,python]
+tags: [tech,scripts,perl,python]
 image:
   feature: wall.jpg
   credit: Jeremy Gooch

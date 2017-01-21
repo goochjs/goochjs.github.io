@@ -4,7 +4,7 @@ title: Simple and Secure Passwords
 modified:
 excerpt: "A memorable approach to varied passwords"
 comments: true
-tags: [security]
+tags: [tech,security]
 image:
   feature: password.jpg
   credit: Marc Faladeau
