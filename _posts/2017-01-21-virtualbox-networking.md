@@ -11,6 +11,8 @@ image:
   creditlink: https://www.flickr.com/photos/quinnanya/
 ---
 
+{% include _toc.html %}
+
 This post aims to explain how to set-up a working network configuration for a group of VirtualBox VMs running on a single host machine.
 
 I needed to be able to get the guest VMs communicating with one another so that I could set up and test a clustering solution for a project I was working on.  I wanted to be able to individually SSH into each guest VMs from the host laptop.  I didn't need the guests to be visible outside of my laptop.
