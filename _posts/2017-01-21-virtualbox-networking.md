@@ -32,19 +32,24 @@ This is what I was running:-
 
 You only need to do this once.
 
-- In VirtualBox, go to *File - Preferences - Network*
-- add Host-only network
-- enable DHCP server
-  - Server address 192.168.56.1 (default)
-  - Server mask 255.255.255.0
-  - Lower address bound 10.13.13.101
-  - Upper address bound 10.13.13.254
+1. In VirtualBox, go to "*File*" - "*Preferences*" - "*Network*"
+1. Add a "*Host-only Network*"
+1. Select it and click the screwdriver button to edit the details
+1. Leave the "*Adapter*" tab as is.  It should say:-
+  - "*IPv4 Address*" = "*192.168.56.1 *"
+  - "*IPv4 Network Mask*" = "*255.255.255.0*"
+1. On the "*DHCP Server*" tab, ensure "*Enable Server*" is selected
+1. Make these settings:-
+  - "*Server Address*" = "*192.168.56.1*"
+  - "*Server Mask*" = "*255.255.255.0*"
+  - "*Lower Address Bound*" = "*10.13.13.101*"
+  - "*Upper Address Bound*" = "*10.13.13.254*"
   
 This will create a new adapter within Windows.  You can see it (if you really want to) by clicking:-
 
-1. Settings (i.e. the gear icon) on the **Windows** home menu
-1. Network & Internet
-1. Change adapter options
+1. "*Settings*" (i.e. the gear icon) on the **Windows** home menu
+1. "*Network & Internet*"
+1. "*Change adapter options*" (you shouldn't change anything, you'll just be able to see it in the list)
 
 
 ### Individual server settings  
@@ -55,10 +60,10 @@ Do this for each of your guest VMs.
 
 #### Adapter 1
 
-- Select the "*Adapter 1*" tab
-- Ensure "*Enable Network Adapter*" is selected
-- Set "*Attached to*" = "*NAT*"
-- Expand the "*Advanced*" section
+1. Select the "*Adapter 1*" tab
+1. Ensure "*Enable Network Adapter*" is selected
+1. Set "*Attached to*" = "*NAT*"
+1. Expand the "*Advanced*" section
   - Set "*Adapter Type*" = "*Intel PRO/1000 MT Desktop*"
   - Click the "refresh button" (circular arrows) next to the MAC Address to generate a fresh one
   - Ensure "*Cable Connected*" is selected
@@ -77,10 +82,10 @@ You can also add any other rules you like in order to give your host access to s
 
 #### Adapter 2
 
-- Select the "*Adapter 2*" tab
-- Set "*Attached to*" = "*Host-only Adapter*"
-- Choose "*Name*" fom the drop-down box to be whatever name it was given when you set up the Overall VirtualBox Network settings above (you'll probably only have one option)
-- Expand the "*Advanced*" section
+1. Select the "*Adapter 2*" tab
+1. Set "*Attached to*" = "*Host-only Adapter*"
+1. Choose "*Name*" fom the drop-down box to be whatever name it was given when you set up the Overall VirtualBox Network settings above (you'll probably only have one option)
+1. Expand the "*Advanced*" section
   - Set "*Adapter Type*" = "*Intel PRO/1000 MT Desktop*"
   - Set "*Promiscuous Mode*" = "*Allow All*"
   - Click the "refresh button" (circular arrows) next to the MAC Address to generate a fresh one
@@ -89,16 +94,16 @@ You can also add any other rules you like in order to give your host access to s
 
 ### SSH access
 
-You will be able to SSH into each guest from your desktop using the IP address you chose in the Adapter 1 port forwarding section (e.g. `127.0.1.2`).  But first, you need to tell the Ubuntu VMs about the network config.
+You will be able to SSH into each guest from your desktop using the IP address you chose in the Adapter 1 port forwarding section (e.g. `127.0.1.2`).
 
 
 ### Ubuntu configuration
 
-You'll need to ensure that each Ubuntu server knows that it's been given two network interfaces.
+You'll need to ensure that each Ubuntu VM knows that it's been given two network interfaces.
 
 SSH into each guest and do this:-
 
-- `sudo vi /etc/network/interfaces
+    `sudo vi /etc/network/interfaces'
 
 Make sure it looks something like this:-
 
@@ -117,7 +122,7 @@ Make sure it looks something like this:-
     auto eth1
     iface eth1 inet dhcp
 
-Whilst you're on the server, update the VM's hostname and IP addresses in both `/etc/hosts`.  It should look something like this (of course, your IP address may vary):-
+Whilst you're on the server, update the VM's hostname and IP addresses in `/etc/hosts`.  It should look something like this (of course, your IP address may vary):-
 
     127.0.0.1       localhost
     127.0.1.1       yourserver
@@ -132,6 +137,11 @@ Whilst you're on the server, update the VM's hostname and IP addresses in both `
 Also put the VM's hostname into `/etc/hostname`.
 
 Obviously, you can do normal Ubuntu things to set up static IP addresses, etc.  .  There may be value in doing this to *eth1*, but there's not much point doing it to *eth0*, as it's all alone on its own virtual network.
+
+
+### Inter-VM communication
+
+The VMs will now be able to talk to each other via the IP addresses assigned to 'eth1' (e.g. `10.13.13.102`).
 
 
 ### Creating a new guest VM
