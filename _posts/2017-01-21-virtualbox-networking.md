@@ -38,7 +38,7 @@ You only need to do this once.
 1. Add a "*Host-only Network*"
 1. Select it and click the screwdriver button to edit the details
 1. Leave the "*Adapter*" tab as is.  It should say:-
-  - "*IPv4 Address*" = "*192.168.56.1 *"
+  - "*IPv4 Address*" = "*192.168.56.1*"
   - "*IPv4 Network Mask*" = "*255.255.255.0*"
 1. On the "*DHCP Server*" tab, ensure "*Enable Server*" is selected
 1. Make these settings:-
@@ -105,7 +105,7 @@ You'll need to ensure that each Ubuntu VM knows that it's been given two network
 
 SSH into each guest and do this:-
 
-    `sudo vi /etc/network/interfaces'
+    sudo vi /etc/network/interfaces
 
 Make sure it looks something like this:-
 
@@ -143,7 +143,7 @@ Obviously, you can do normal Ubuntu things to set up static IP addresses, etc.  
 
 ### Inter-VM communication
 
-The VMs will now be able to talk to each other via the IP addresses assigned to 'eth1' (e.g. `10.13.13.102`).
+The VMs will now be able to talk to each other via the IP addresses assigned to *eth1* (e.g. `10.13.13.102`).
 
 
 ### Creating a new guest VM
@@ -157,4 +157,4 @@ Quick instructions on cloning an Ubuntu VM and configuring it:-
 1. Launch the server and SSH into it
 1. If you want your servers to have static IP addresses, do the necessary updates
 1. `sudo vi /etc/hostname` and give it a new name
-1. `sudo vi /etc/hosts` and make sure there are entries for both localhost and the new hostname against both of the IP address chosen above (i.e. the one you're using for ssh access) and the one assigned to eth1
+1. `sudo vi /etc/hosts` and make sure there are entries for each of `localhost` and the new hostname against both IP address `127.0.0.1` and the address assigned to *eth1*
