@@ -9,11 +9,11 @@ image:
   credit: Jeremy Gooch
 ---
 
-The Peak District is split into two distinct areas - white and dark.  The first weekend linear walk I did several years earlier was along [the Limestone Way] in the White Peak area.  It was lovely to return to Derbyshire in order to cover some of the best walking routes across the more northerly and wilder Dark Peak.
+The Peak District is split into two distinct areas - white and dark.  The first weekend linear walk I did several years earlier was along the [Limestone Way] in the White Peak area.  It was lovely to return to Derbyshire in order to cover some of the best walking routes across the more northerly and wilder Dark Peak.
 
 The first two days of the route were arguably a little bit less than linear; the distance between start and finish each day as the crow flies being much less than the miles under foot.  We went from Hathersage along Stanage Edge then onto Castleton on one day and then around the horseshoe at the end of the Edale valley the next day.  The third day followed the first section of the Pennine Way, albeit starting with the old route over Kinder Scout and across the moor rather than the new route up Jacob's Ladder.
 
-To get to and from the walk, we drove to Glossop to stay the night in the Travelodge.  In the morning, we dropped a car at the end of the walk a couple of miles away in Hadfield station car park, before driving another car to the start of the walk at Hathersage.
+To get to and from the walk, we drove to Glossop to stay the night in the Travelodge.  In the morning, we dropped a car a couple of miles away in Hadfield station car park, before driving another car to the start of the walk at Hathersage.
 
 The drive to Hathersage from Hadfield was a marvellous way to start the first day, as it goes over the wilds of Snake Pass and down to Ladybower Reservoir.
 
@@ -94,7 +94,9 @@ We eventually reached Torside Clough, with views down to the reservoir.  The pat
 From here, it was just under three miles of easy walking back to the car at Hadfield.  We all collapsed onto the tarmac of the car park and gratefully removed our boots before readying ourselves for the drive to Hathersage to collect the other car.
 
 
-[Ilkley to Ribblehead]: {% post_url 2010-08-08-peak-district-limestone-way-matlock-edale %}
-[Lose Hill YHA]: http://theramblerinn.com/
+[Limestone Way]: {% post_url 2010-08-08-peak-district-limestone-way-matlock-edale %}
+[The Castle]: http://www.vintageinn.co.uk/restaurants/midlands/thecastlecastleton
+[Lose Hill YHA]: http://www.yha.org.uk/hostel/castleton-losehill-hall
 [The Old Nags Head]: http://www.the-old-nags-head.co.uk/
+[Edale YHA]: http://www.yha.org.uk/hostel/edale
 [Kinder Trespass]: https://en.wikipedia.org/wiki/Mass_trespass_of_Kinder_Scout
