@@ -15,7 +15,7 @@ The first two days of the route were arguably a little bit less than linear; the
 
 To get to and from the walk, we drove to Glossop to stay the night in the Travelodge.  In the morning, we dropped a car a couple of miles away in Hadfield station car park, before driving another car to the start of the walk at Hathersage.
 
-The drive to Hathersage from Hadfield was a marvellous way to start the first day, as it goes over the wilds of Snake Pass and down to Ladybower Reservoir.
+The drive from Hadfield to Hathersage was a marvellous way to start the first day, as it goes over the wilds of Snake Pass and down to Ladybower Reservoir.
 
 - *Day 1*: Hathersage to Castleton via Stanage Edge and Win Hill
 - *Day 2*: Castleton to Edale via the Great Ridge and Rushup Edge
@@ -63,7 +63,7 @@ Leaving the YHA, we quickly climbed to the top of Lose Hill.  From here, the Gre
 
 We stopped to eat our sandwiches sat around the marker at the top of Brown Knoll.  The route then dropped down a little to take us around the top of Jacob's Ladder, passing along no more than a couple of hundred metres of the Pennine Way, before turning right to climb up to the highest point of the walk at Crowden Tower.
 
-The weather was beginning to get a little wet at this point, so we turned right into Crowden Clough, a sharp descent with some scrambling.  We very quickly came out of the rain and down to the valley floor to pick up the Pennine Way again.  It was a short walk from here to Edale, where we stopped for an early dinner in the [The Old Nags Head] before walking the last mile and a half to Edale youth hostel, which is tucked into the edge of hill (and not especially near Edale).
+The weather was beginning to get a little wet at this point, so we turned right into Crowden Clough, a sharp descent with some scrambling.  We very quickly came out of the rain and down to the valley floor to pick up the Pennine Way again.  It was a short walk from here to Edale, where we stopped for an early dinner in the [The Old Nags Head] before walking the last mile and a half to Edale youth hostel, which is tucked into the edge of the hill (and not especially near Edale).
 
 ![Lose Hill Hope sign](/images/lose-hill-hope-sign.jpg)
 
@@ -89,7 +89,7 @@ The rain had stopped and the views to the west opened out, over Kinder Reservoir
 
 We stopped for lunch just after crossing the A57 (Snake Pass).  A friend had told us that Bleaklow was even more challenging than the top of Kinder Scout, but it was much less boggy and had some lovely parts where we walked alongside sunken streams.
 
-We eventually reached Torside Clough, with views down to the reservoir.  The path grips the side of the valley and is overgrown each side.  When looking back, this means that you can't easily spot where you've been.  It also seems as if it will never descend but then it suddenly drops down and joins the disused railway line running alongside the reservoir.
+We eventually reached Torside Clough, with views down to the reservoir.  The path grips the side of the valley and is overgrown each side.  This means that you can't easily spot where the path is going or, when looking back, where you've been.  It also seems as if it will never descend but then it suddenly drops down and joins a disused railway line running alongside the reservoir.
 
 From here, it was just under three miles of easy walking back to the car at Hadfield.  We all collapsed onto the tarmac of the car park and gratefully removed our boots before readying ourselves for the drive to Hathersage to collect the other car.
 
