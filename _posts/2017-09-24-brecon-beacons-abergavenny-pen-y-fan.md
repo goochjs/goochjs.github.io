@@ -17,11 +17,11 @@ To get to and from the walk, we planned to drive to Brecon to leave a car and th
 
 We stayed overnight in Abergavenny in the [Black Lion Guest House].  We tested a few of the pubs in town and found the best beer was in the [Kings Arms].  It also had a resident eccentric, who regaled us with tales of the legendary Captain Russell, allegedly both his GP and the heroic head of the local mountain rescue team.  The derring-do of Captain Russell naturally became something of a meme for the weekend.
 
-![Sugar Loaf sign](/images/sugar-loaf-sign.jpg)
-
 - *Day 1*: Abergavenny to Talybont Reservoir, over Sugar Loaf
 - *Day 2*: Talybont Reservoir to Brecon, over Pen y Fan
 - *Day 3*: Circular walk around and over the Blorenge
+
+![Sugar Loaf sign](/images/sugar-loaf-sign.jpg)
 
 
 # Friday - Abergavenny to Talybont Reservoir, over Sugar Loaf
@@ -67,7 +67,7 @@ In the morning, the weather forecast promised sun by the afternoon but it didn't
 
 We paused at the upper of two car parks on Blaen y Glyn for a drink and a snack.  Lots of people were heading out for the climb into the hills and we fell into line.  The path from the car park rises very steeply, up rock steps and quickly gains two hundred metres in height.  Alas, the cloud was persistent, so the promised views back over the reservoir were somewhat of a white-out.  The top of the waterfall, Blaen Caerfanell, was similarly misty so we pressed on, the path almost doubling back on itself to enter peaty moorland, bringing back the horror of June's slog across [Kinder Scout].
 
-By this time, we'd left the other walkers behind (including the cheerful group of lads who seemed happily under-prepared and to whom we wished good luck after letting them take a photo of our map).  We followed the path assisted by a compass bearing, turning 90 degrees to the right once we hit a cairn in the middle of the moor.
+By this time, we'd left the other walkers behind (including a cheerful group of lads who seemed happily under-prepared and to whom we wished good luck after letting them take a photo of our map).  We followed the vague and slightly boggy path assisted by a compass bearing, turning 90 degrees to the right once we hit a cairn in the middle of the moor.
 
 This route brought us out onto the back of Fan y Big (insert your own smutty joke here).  As the visibility was still low and minding that we still had one dodgy foot among us, we decided to drop down the side of the hill.  As we did so, the cloud suddenly began to clear and within twenty minutes, the view across the valley opened up.  Remarkably, by the time we reached the path that runs from Fan y Big onto the next peak, Cribyn, the sun was out.
 
@@ -94,11 +94,11 @@ Dinner was in the local Nepalese curry house, [Ghurkha Corner], where the dumpli
 
 Having decided to look for an easier excursion for the third day, we spotted a book of walks on the bookcase of the dining room at the Borderers Guest House.  It suggested a loop around and over the Blorenge, which sits on the south side of Abergavenny, which seemed an amenable length and was in the direction towards home.
 
-The walk started at the car park at Pen-ffordd-goch Pond on the south west side of the mountain.  The pond, also known as Keeper's Pond, was dug in the 19th century to provide water for a forge.  When we set off, there were a couple of remote control enthusiasts running their model boats at great speed over the water.  When we returned, there was a brave soul swimming in it.  Both activities looked a little cold.
+The walk started and finished at the car park at Pen-ffordd-goch Pond on the south west side of the mountain.  The pond, also known as Keeper's Pond, was dug in the 19th century to provide water for a forge.  When we set off, there were a couple of remote control enthusiasts running their model boats at great speed over the water.  When we returned, there was a brave soul swimming in it.  Both activities looked a little cold.
 
-The path ran north along the side of the mountain, through heather and cloud.  As it started to turn east, it began to drop and we came below the mist to look over Abergavenny and towards Sugar Loaf.  A mile or so later, we passed through a gate and into woodland.  This took us to the small lake in the area known as the Punch Bowl, once a venue for illegal bare-knuckle boxing but now a rather pretty and secluded spot.
+The path ran north along the side of the mountain, through heather and cloud.  As it started to turn east, it began to drop and we came below the mist to look over Abergavenny and towards Sugar Loaf.  A mile or so later, we passed through a gate and into woodland.  This took us to a small lake in the area known as the Punch Bowl, once a venue for illegal bare-knuckle boxing but now a rather pretty and secluded spot.
 
-Out the other side of the woods, there was a choice to continue along the side of the mountain back to the car park or to turn sharply right to climb to the summit.  We took this path, and after a short ascent, turned left on a stony path to reach the cairn on the summit plateau.  We were back in cloud at this point so didn't stop for views and followed the path south west to a car park next to some radio towers.  From there, a road took us the last few hundred yards back to Keeper's Pond and the car to drive home.
+Out the other side of the woods, there was a choice to continue along the side of the mountain directly back to the car park or to turn sharply right to climb to the summit.  We took this path, and after a short ascent, turned left on a stony path to reach the cairn on the summit plateau.  We were back in cloud at this point so didn't stop for views and followed the path south west to a car park next to some radio towers.  From there, a road took us the last few hundred yards back to Keeper's Pond and the car to drive home.
 
 
 [Black Lion Guest House]: http://blacklionaber.co.uk/
