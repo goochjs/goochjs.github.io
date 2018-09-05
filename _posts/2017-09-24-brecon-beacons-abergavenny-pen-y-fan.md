@@ -9,11 +9,11 @@ image:
   credit: Jeremy Gooch
 ---
 
-This was a two-day linear walk plus a circuit.  Over the Friday and Saturday, we went from the south end of the Black Mountains into the Brecon Beacons and on the Sunday we did a simple loop around the Blorenge, just south of Abergavenny.  Originally, we wanted to plan to push on into the Brecon Beacons for a third day, but the logistics at start and end of the day would have required more driving to shuffle cars around than we generally like to do.  In the end, after two long days, a shortish and straightforward walk was quite welcome.
+This was a two-day linear walk plus a circuit.  Over the Friday and Saturday, we went from the south end of the Black Mountains into the Brecon Beacons and on the Sunday we did a simple loop around the Blorenge, just south of Abergavenny.  Originally, we thought about pushing on into the Brecon Beacons for a third day, but the logistics at start and end of the day would have required more driving to shuffle cars around than we generally like to do.  In the end, after two long days, a shortish and straightforward walk was quite welcome.
 
 As is often the case on our walks, we were mostly lucky with the weather.  We went just after the equinox, and the trees were just beginning to catch the autumn colours.  On the moorland around Sugar Loaf in particular, there were many views across seas of reddening fern leaves.
 
-To get to and from the walk, we planned to drive to Brecon to leave a car and then take a second car to the start of the walk at Abergavenny.  One of our group, however, had injured his foot a fortnight before the walk, so we left a third car in Llangyndir in order to trim a few miles off for him.
+To get to and from the walk, we planned to drive to Brecon to leave a car and then take a second car to the start of the walk at Abergavenny.  One of our group, however, had injured his foot a fortnight before the walk, so we left a third car in Llangyndir so he could trim a few miles off the first day.
 
 We stayed overnight in Abergavenny in the [Black Lion Guest House].  We tested a few of the pubs in town and found the best beer was in the [Kings Arms].  It also had a resident eccentric, who regaled us with tales of the legendary Captain Russell, allegedly both his GP and the heroic head of the local mountain rescue team.  The derring-do of Captain Russell naturally became something of a meme for the weekend.
 
@@ -45,7 +45,7 @@ Crossing the bridge in Crickhowell, apparently the longest stone bridge in Wales
 
 The path dropped back down the hillside a little to pick up the towpath running alongside the Monmouthshire and Brecon Canal, which is cut into the hillside and snakes along the valley.  This was the closest point to Llangyndir, so our injured walker left us to pick up his car.  The rest of us followed the tow path for quite a long time, certainly long enough for us to begin to want some variety underfoot.  That said, it was drizzling by this time and the trees beside the canal kept us dry.
 
-Eventually, we left the canal and the path climbed up through woodland and fields of grumpy cows, before dropping down towards Talybont Reservoir.  The last half mile was a little fiddly, as the path was unclear but we finally reached the YHA.
+Eventually, we left the canal and the path climbed up through woodland and fields of grumpy cows, before dropping down towards Talybont Reservoir.  The last half mile was a bit fiddly, as the path was unclear but we finally reached the YHA.
 
 It was fortunate that we had the extra car, as the food in the YHA was a little uninspiring.  We instead drove the two miles north to [The White Hart] at Talybont-on-Usk for dinner.
 
@@ -75,7 +75,7 @@ The path to Cribyn rises steeply before swinging along a ridge to reach the summ
 
 From Cribyn, Pen y Fan beckons.  The path drops steeply and then rises even more to take you to the top.  This is the highest point in the Brecons and was simply beautiful.
 
-The opt-out to allow our lightly-injured walker to save a few miles was for him to go over the last peak in the series, Corn Du, and then drop down to the road at [Storey Arms] to get a bus into Brecon.  The rest of us scrambled down the path north off Pen y Fan to follow the route along the peninsular ridge of Cefn Cwm Llwch (which we did not attempt to pronounce).
+An opt-out to allow our lightly-injured walker to save a few miles was for him to go over the last peak in the series, Corn Du, and then drop down to the road at [Storey Arms] to get a bus into Brecon.  The rest of us scrambled down the path north off Pen y Fan to follow the route along the peninsular ridge of Cefn Cwm Llwch (which we did not attempt to pronounce).
 
 After passing the two most clueless mountain bikers in all of Wales and after watching the mountain rescue helicopter hover near Corn Du (hopefully not for our injured walker and presumably piloted by Captain Russell), we dropped down off the end of the ridge, turning right as we reached the valley floor, and then left to pick up a lane towards Brecon.  After a mile of road walking, we gratefully turned right onto a path, which itself turned north to take us through two fields of playful but happily timid bullocks and to a bridge over the A40.
 
@@ -92,11 +92,11 @@ Dinner was in the local Nepalese curry house, [Ghurkha Corner], where the dumpli
 
 ![Map Blorenge circular](/images/map-blorenge.png)
 
-Having decided to look for an easier excursion for the third day, we spotted a book of walks on the bookcase of the dining room at the Borderers Guest House.  It suggested a loop around and over the Blorenge, which sits on the south side of Abergavenny, which seemed an amenable length and was in the direction towards home.
+Having decided to look for an easier excursion for the third day, we spotted a book of walks on the bookcase of the dining room at the Borderers Guest House.  It suggested a loop around and over the Blorenge, just to the south of Abergavenny, which seemed an amenable length and was in the direction towards home.
 
 The walk started and finished at the car park at Pen-ffordd-goch Pond on the south west side of the mountain.  The pond, also known as Keeper's Pond, was dug in the 19th century to provide water for a forge.  When we set off, there were a couple of remote control enthusiasts running their model boats at great speed over the water.  When we returned, there was a brave soul swimming in it.  Both activities looked a little cold.
 
-The path ran north along the side of the mountain, through heather and cloud.  As it started to turn east, it began to drop and we came below the mist to look over Abergavenny and towards Sugar Loaf.  A mile or so later, we passed through a gate and into woodland.  This took us to a small lake in the area known as the Punch Bowl, once a venue for illegal bare-knuckle boxing but now a rather pretty and secluded spot.
+The path ran north along the side of the mountain, through seas of fern and cloud.  As it started to turn east, it began to drop and we came below the mist to look over Abergavenny and towards Sugar Loaf.  A mile or so later, we passed through a gate and into woodland.  This took us to a small lake in the area known as the Punch Bowl, once a venue for illegal bare-knuckle boxing but now a rather pretty and secluded spot.
 
 Out the other side of the woods, there was a choice to continue along the side of the mountain directly back to the car park or to turn sharply right to climb to the summit.  We took this path, and after a short ascent, turned left on a stony path to reach the cairn on the summit plateau.  We were back in cloud at this point so didn't stop for views and followed the path south west to a car park next to some radio towers.  From there, a road took us the last few hundred yards back to Keeper's Pond and the car to drive home.
 
