@@ -124,7 +124,7 @@ The Crib Goch crew arrived an hour after us, with tales of being pinned against 
 
 ## Snowdon descent
 
-![Map Snowdon descent](/images/map-snowdown-descent.png)
+![Map Snowdon descent](/images/map-snowdon-descent.png)
 
 - *Distance*: 4 miles
 - *Walking time*: 2 hrs
