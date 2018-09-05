@@ -34,7 +34,7 @@ It's worth noting that mileages over this weekend were lower than most of the ot
 
 Starting at the car park in the middle of Beddgelert, we walked along the river, heading north-east towards the Sygun Copper Mine.  Shortly afterwards, the path opened out onto the shore of Lyn Dinas.  We paused here to have a picnic before turning right, to head away from the lake and up onto the hillside, heading south to south-east.
 
-The view back over the lake was worth a pause before the trail levelled out into moorland.  About three miles into the walk, at pretty much the highest point, there was a bit of path confusion.  An OS map consultation and a compass got us back onto the route we wanted, heading south and passing abandoned mine paraphernalia as we headed to the bridge at Aberglaslyn.  The route left the moorland and went into woodland as we descended.
+The view back over the lake was worth a look-back before the trail levelled out into moorland.  About three miles into the walk, at pretty much the highest point, there was a bit of path confusion.  An OS map consultation and a compass got us back onto the route we wanted, heading south and passing abandoned mine paraphernalia as we headed to the bridge at Aberglaslyn.  The route left the moorland and went into woodland as we descended.
 
 Across the bridge and river, we turned left and walked a couple of hundred yards along the road until a path on the right took us up into the woods again.  There was then a complete path-to-map breakdown and we found ourselves a bit further north than the map suggested we should be.  This necessitated some scrambling and barbed-wire-fence-jumping towards the south-west before we emerged from the woods and could pick up the path indicated on the map again.  I'm not sure where we went wrong but the result was that, after the scrambling, we had to go uphill across a very boggy field and the day's gentle(ish) warm-up walk turned into a brief bit of a slog.
 
@@ -64,7 +64,7 @@ Parts of this walk were cribbed from a route in [Trail magazine] and were descri
 
 In the morning, we had booked a minibus to take us from Rhyd Ddu to Aber Falls.  This cost about £75 and took just under an hour.
 
-Once we'd been dropped off at the Aber Falls car park, we followed the main path south towards the falls.  Before reaching them, just over a mile into the walk, we took a switchback path over a stile to the left.  Looking up from the bottom, you can see on the hillside above where it sharply turns right again and crosses a scree field.  At the end of this section, the path seems to disappear.  We had sufficient faith to give it a go and far from disappearing, the scree path turned into a well-defined path among the rocks towards the top of the falls.  That said, there was one slippery step where everyone trod gingerly.
+Once we'd been dropped off at the Aber Falls car park, we followed the main path south towards the falls.  Before reaching them, just over a mile into the walk, we took a switchback path over a stile to the left.  Looking up from the bottom, you can see on the hillside above where it sharply turns right again and crosses a scree field.  At the end of this section, the path seems to disappear.  We had sufficient faith to give it a go and far from disappearing, the scree path turned into a well-defined trail among the rocks towards the top of the falls.  That said, there was one slippery step where everyone trod gingerly.
 
 Once past the rocks, we found ourselves at the bottom of another valley.  The details in Trail magazine were a little bit vague at this point but the steep hillside to the right needed to be climbed.  This was one of the really tough parts of the walk.  It was a choice between walking further down the valley and then scrambling up rocks, heading directly up through the heather or otherwise trying to find a path winding up via the sheep tracks.  I think we tried them all and none were easy.
 
@@ -99,9 +99,9 @@ Once we'd established the correct outcrop that forms the summit, we had fun clam
 
 From Glyder Fach, we continued eastwards and the rocky path soon softened to moorland as we headed off the mountain.  We were in good time so spent half an hour snoozing in the sun on the hillside before turning south on the Miner's Track.  Once over a couple of walls and through fields, we soon reached the road and the [Pen-y-Gwryd Hotel].
 
-After soothing our feet with a couple of pints of beer, we set off to the YHA.  The map showed only the road but in fact there is a path a short distance down the A498 that was a more pleasant route up to (Pen-y-Pass)[YHA Pen-y-Pass], where we ate dinner (not having to cook it ourselves this time, as Pen-y-Pass has a restaurant) and slept.
-
 ![Map Pen-y-Gwryd Hotel to Pen-y-Pass YHA](/images/map-pen-y-gwryd-to-pen-y-pass.png)
+
+After soothing our feet with a couple of pints of beer, we set off to the YHA.  The map showed only the road but in fact there is a path a short distance down the A498 that was a more pleasant route up to [YHA Pen-y-Pass], where we ate dinner (not having to cook it ourselves this time, as Pen-y-Pass has a restaurant) and slept.
 
 
 # Sunday - Snowdon
@@ -109,23 +109,27 @@ After soothing our feet with a couple of pints of beer, we set off to the YHA.  
 - *Total distance*: 7.75 miles
 - *Difficulty*: Medium
 
+## Snowdon ascent
+
 ![Map Snowdon ascent](/images/map-snowdownia-ascent.png)
 
 - *Distance*: 3.75 miles
 - *Walking time*: 2 hrs
 
-The next morning, our party of eight split into three groups.  Four hardy souls had decided to ascend Snowdon by way of the precipitous ridge of Crib Goch.  The rest were feeling somewhat less hardcore but split into two further groups.  One of these pairs planned to go around the left-hand side of the horseshoe, over Y Lliwedd.  The last pair, which included myself, having never been up Snowdon on any route, chose the much more straightforward Pyg Track.
+The next morning, our party of eight split into three groups.  Four hardy souls had decided to ascend Snowdon by way of the precipitous ridge of Crib Goch.  The rest were feeling somewhat less hardcore but split into two further groups.  One of these pairs planned to go around the left-hand side of the horseshoe, over Y Lliwedd.  The last pair, which included myself, having never been up Snowdon on any route (except the train whilst on a family holiday), chose the much more straightforward Pyg Track.
 
 The Pyg Track was expectedly busy and climbed steadily for most of its length.  There was a very small amount of scrambling and a short and steep zigzag before we reached the railway where the trains come up from Llanberis and we joined the crowds.  At the top, we sat in the cafe and enjoyed the views with cake and a drink whilst we waited for the others.
 
-The Crib Goch crew arrived an hour after us, with tales of being pinned against the ridge by the wind.  An hour after that, our final two walkers arrived, looking somewhat weary and with tales of the final scree slope and the other walkers who were frozen upon it, "crag-fast" and unable to go any further.  The Pyg pair's previous concern at a lack of a sense of adventure turned into relief that we'd taken the easier route (memories of the descent two days ago being much too fresh).
+The Crib Goch crew arrived an hour after us, with tales of being pinned against the ridge by the wind.  An hour after that, our final two walkers arrived, looking somewhat weary and with tales of the final scree slope and the other walkers who were frozen upon it, *crag-fast* and unable to go any further.  The Pyg pair's previous concern at a lack of a sense of adventure turned into relief that we'd taken the easier route (memories of the descent two days ago being much too fresh).
 
-![Map Snowdon descent](/images/map-snowdownia-descent.png)
+## Snowdon descent
+
+![Map Snowdon descent](/images/map-snowdown-descent.png)
 
 - *Distance*: 4 miles
 - *Walking time*: 2 hrs
 
-As can be surmised from the variety of routes taken above, there are many paths around Snowdon.  In order to get back to our cars, we dropped off the back of the summit, directly away from the cafe.  Given how busy the east side of Snowdon was, the Rhyd Ddu path was quite and peaceful.  It starts along a ridge, with yet more excellent views across Snowdonia, before dropping down steadily to a crossroads, where a right turn and a few more minutes brought us into the village railway station just in time to see a steam train pass by.  A hundred metres along the road was [The Cwellyn Arms], where we stopped for a drink before picking up our cars and heading home.
+As can be surmised from the variety of routes taken above, there are many paths around Snowdon.  In order to get back to our cars, we dropped off the back of the summit, directly away from the cafe.  Given how busy the east side of Snowdon was, the Rhyd Ddu path was quite peaceful.  It starts along a ridge, with yet more excellent views across Snowdonia, before dropping down steadily to a crossroads, where a right turn and a few more minutes brought us into the village railway station just in time to see a steam train pass by.  A hundred metres along the road was [The Cwellyn Arms], where we stopped for a drink before picking up our cars and heading home.
 
 
 [The Cwellyn Arms]: http://www.snowdoninn.co.uk/index.php
