@@ -18,7 +18,7 @@ It's worth noting that mileages over this weekend were lower than most of the ot
 - *Day 1*: Circular walk around Beddgelert
 - *Day 2*: Aber Falls to Idwal YHA
 - *Day 3*: Idwal YHA to the Pen-y-Gwryd Hotel (and then onto Pen-y-Pass YHA)
-- *Day 3*: Snowdon, finishing at Rhyd Ddu
+- *Day 4*: Snowdon, finishing at Rhyd Ddu
 
 ![Rock dragon](/images/rock-dragon.jpg)
 
