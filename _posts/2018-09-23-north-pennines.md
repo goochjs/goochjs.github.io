@@ -11,7 +11,7 @@ image:
 
 This weekend walk was two very tough days and a much easier half day, covering quite a few miles of the Pennine Way.
 
-We drove up on the Thursday afternoon and spent the evening in Middleton-in-Teesdale.  The next morning, a minibus taxi took us around to the start of the route at Kirkland, a tiny hamlet just west of Cross Fell.  From there, we walked over the fell and down to Appleby-in-Westmorland.  On the Saturday, we walked from Appleby, along the glaciated valley of High Cup Nick before following the Pennine Way across the moor to the cascade of Cauldron Snout and then onto the High Force Hotel.  On the last day, having taken the small detour to see the High Force waterfall, we hiked the last few miles along the river back to Middleton.
+We drove up on the Thursday afternoon and spent the evening in Middleton-in-Teesdale.  The next morning, a minibus taxi took us around to the start of the route at Kirkland, a tiny hamlet just west of Cross Fell.  From there, we walked over the fell and down to Appleby-in-Westmorland.  On the Saturday, we walked from Appleby and along the glaciated valley of High Cup Nick before following the Pennine Way across the moor to the cascade of Cauldron Snout and then onto the High Force Hotel.  On the last day, having taken the small detour to see the High Force waterfall, we hiked the last few miles along the river back to Middleton.
 
 - *Day 1*: Cross Fell to Appleby-in-Westmorland
 - *Day 2*: Appleby-in-Westmorland to the High Force Hotel, via High Cup Nick and Cauldron Snout
@@ -31,7 +31,7 @@ Although our rooms were booked at the Forresters Hotel, we preferred the look of
 - *Distance*: 18 miles
 - *Walking time*: 8.5 hrs
 - *Difficulty*: Extremely tough
-- *Lunch*: sandwiches (brought from home and kept in a coolbox overnight or purchased from Coop in Middleton)
+- *Lunch*: sandwiches (brought from home and kept in a coolbox overnight or purchased from the Co-op in Middleton)
 - *Accommodation*: [Royal Oak], Appleby-in-Westmorland
 - *Dinner*: Ashiana, Bridge Street, Appleby-in-Westmorland
 
@@ -58,7 +58,7 @@ The Royal Oak was very comfortable and, once we were sufficiently rested, we wal
 
 ![Map Appleby to High Force](/images/map-high-cup-nick.png)
 
-Similarly to Friday, this day had also been elongated due to having to stay in Appleby rather than Dufton.  As a result, the first couple of miles ran through farmland along a lane parallel to the route we'd done the afternoon before.  The lane became a path through woods and then rose up over the foot of Middletongue Crag before dropping into the valley of High Cup Gill.  The sides of the valley rose dramatically and steeply.  It was quite wet underfoot but otherwise quite gentle.  That said, the rocky slope of High Cup Nick loomed at the end of the valley.  To be frank, I thought it was quite ominous and (as previous walk reports will attest) I'm not a huge fan of scree slopes or climbing up loose rubble.  As a result, I decided to go up the south side of the valley to pick up the path that had come over Middletongue Crag.  One of the group decided to accompany me.  I think he probably regretted it.  Although the side of the valley was grassy, it was also very very steep.  Not only that, but after three hundred feet or more of climb (much of it requiring hands) there was a despicable false summit.
+Similarly to Friday, this day had also been elongated due to having to stay in Appleby rather than Dufton.  As a result, the first couple of miles ran through farmland along a lane parallel to the route we'd done the afternoon before.  The lane became a path through woods and then rose up over the foot of Middletongue Crag before dropping into the valley of High Cup Gill.  The sides of the valley rose dramatically and steeply.  It was wet underfoot but otherwise quite gentle.  That said, the rocky slope of High Cup Nick loomed at the end of the valley.  To be frank, I thought it was quite ominous and (as previous walk reports will attest) I'm not a huge fan of scree slopes or climbing up loose rubble.  As a result, I decided to go up the south side of the valley to pick up the path that had come over Middletongue Crag.  One of the group decided to accompany me although I think he probably regretted it.  The side of the valley was grassy but it was also very very steep.  Not only that, but after three hundred feet or more of climb (much of it requiring hands) there was a despicable false summit.
 
 The others scrambled up the Nick itself.  When we regrouped at the top, they reported that it was nowhere near as fearsome as it had appeared.  It was also much faster than the route the other two of us had taken.  On the other hand, my friend and I had been rewarded with some amazing views of the top of the valley.  So there...
 
@@ -66,7 +66,7 @@ The next section crossed several miles of moorland, first following the river an
 
 We reached the base of the waterfall and the path became a mixture of boardwalk and rocks.  I thought it was most enjoyable but a couple of members of the party found it a bit tricky underfoot and the group spread out.  As the path became easier, the next section was unexpectedly beautiful as we headed along a valley floor to come into Teesdale.
 
-After a bridge over the river, we turned south to follow the riverbank for a mile before a short climb at Low Knott.  Shortly after this, after passing through a farm, we paused to watch a barn owl flying through the trees on the edge of a wood.  We then turned left onto the track that led to the B6277, where we turned right for the few hundred yards to the High Force Hotel.
+Immediately after a bridge over the river, we turned south to follow the riverbank for a mile before a short climb at Low Knott.  Shortly after this, after passing through a farm, we paused to watch a barn owl flying through the trees on the edge of a wood.  We then turned left onto the track that led to the B6277, where we turned right for the few hundred yards to the High Force Hotel.
 
 
 # Sunday - High Force to Middleton-in-Teesdale
