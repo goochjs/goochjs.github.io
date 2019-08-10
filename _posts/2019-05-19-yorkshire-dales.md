@@ -13,7 +13,7 @@ As detailed in earlier posts, I've had a few weekends walking in the Dales and v
 
 We drove up on the Thursday morning in order to fit in a circular route around Malham.  We then drove to Horton-in-Ribblesdale to leave the cars at the station and took the train to Kirkby Stephen, where we stayed the night.  In the morning, a minibus taxi dropped us a few miles west at the start of the walk.  We then walked back to Horton, passing through on the last day in order to loop over Pen-y-ghent.
 
-It was a great time of year to go to the Dales.  Throughout the whole walk, it seemed we were permanently accompanied by Skylarks when out on the hills or surrounded by wild garlic when in amongst trees.
+It was a great time of year to go to the Dales.  Throughout the whole walk, it seemed we were permanently accompanied by skylarks when out on the hills or surrounded by wild garlic when in amongst trees.
 
 - *Day 1*: circular walk around Malham, including Gordale Scar and the Tarn
 - *Day 2*: Howgill Fells, Sedbergh and Dent
@@ -40,20 +40,20 @@ Leaving the woods, we arrived at Gordale Scar.  We stopped to eat lunch and then
 
 Once over the first lump, it was a much easier scramble up rocks and steps to emerge into the moorland above.  We crossed towards Great Close Hill before bearing west to reach the shores of Malham Tarn to pick up the Pennine Way.  This heads south through Ing Scar and onto the limestone pavement above the cliff of Malham Cove.  Having admired the view, we took the steps down to the valley floor and walked back to the start.
 
-We then hopped into the cars and drove to the station at Horton, to catch a train to Kirkby Stephen, to discover that the latter staion is a not-entirely-welcome 30min walk out of town.
+We then hopped into the cars and drove to the station at Horton, to catch a train to Kirkby Stephen, to discover that the latter station is a not-entirely-welcome 30min walk out of town.
 
 
 # Friday - Howgill Fells, Sedbergh and Dent
 
 - *Distance*: 15.25 miles
 - *Walking time*: 6.75 hrs
-- *Difficulty*: Moderate/tough
+- *Difficulty*: Tough
 - *Lunch*: [The Black Bull], Sedbergh
 - *Accommodation* & *Dinner*: [The George and Dragon], Dent, plus overflow accommodation in [Stone Close] B&B
 
 ![Map Howgill Fells to Dent](/images/map-howgill-dent.png)
 
-After breakfast in the very welcoming Kirkby Stephen Hostel, a converted chapel, we had booked a minibus taxi to take us to Bowderdale, six miles west along the A685.  This was a bit of an arbitrary choice, as the driver effectively dropped us on the edge of a field, almost in the middle of a herd of cows.  From here, the path set off south, smoothly climbing up the west side of Bowderdale itself.
+After breakfast in the very welcoming Kirkby Stephen Hostel, a converted chapel, we had booked a minibus taxi to take us to the "hamlet" of Bowderdale, six miles west along the A685.  This was a bit of an arbitrary choice, as the driver effectively dropped us on the edge of a field, almost in the middle of a herd of cows.  From here, the path set off south, smoothly climbing up the west side of Bowderdale itself.
 
 In the next few hours, we saw only one other person and felt as if we had a vast expanse of hillsides to ourselves.  Similarly to the remnants of ox-bow lakes we saw on the second half of the [Fairfield Horseshoe], we were treated to a geography lesson such as the view down the perfect U-shaped valley of Langdale (NB not the same Langdale as in the Lake District).
 
@@ -61,7 +61,7 @@ In the next few hours, we saw only one other person and felt as if we had a vast
 
 The trail was easy to follow and rolled along a sequence of hilltops (West Fell, Hazelgill Knott and The Calf - the latter being the highest point in the Howgills) before we turned into Settlebeck Gill to descend into Sedbergh, where we had a sandwich in the beer garden of [The Black Bull] and it was decreed that the Howgill Fells were unexpectedly marvellous.
 
-After lunch, in the spirit of avoiding paths we'd done whilst walking the [Dales Way] (albeit in the opposite direction), we walked 3/4s of a mile east out of Sedbergh before turning onto a path to cross the Frostrow Fells.  Here, we had joined the Dales High Way long distance path, which we followed all the way into Dent.  We crossed the River Dee at Barth Bridge and followed the river bank into the village.
+After lunch, in the spirit of avoiding paths we'd done whilst walking the [Dales Way] (albeit in the opposite direction), we walked 3/4s of a mile east out of Sedbergh before turning onto a path to cross the Frostrow Fells.  By now, we had joined the Dales High Way long distance path, which we followed all the way into Dent.  We crossed the River Dee at Barth Bridge and followed the river bank into the village.
 
 Due to the size of our group, we couldn't all fit into [The George and Dragon] so we also had a couple of rooms in the [Stone Close] B&B.
 
@@ -70,7 +70,7 @@ Due to the size of our group, we couldn't all fit into [The George and Dragon] s
 
 - *Distance*: 16.25 miles
 - *Walking time*: 7.5 hrs
-- *Difficulty*: Tough
+- *Difficulty*: Really tough
 - *Lunch*: [Old Hill Inn], Chapel-le-Dale
 - *Accommodation* & *Dinner*: [The New Inn], Clapham
 
@@ -86,7 +86,7 @@ Pleasingly, Whernside was free of cloud and we could see down to the Ribblehead 
 
 After lunch, the path crossed via boardwalks and stone pavements to the foot of Ingleborough.  I'd previously done this section in the opposite direction and can now attest that it is extremely steep whichever way you look at it.  Fortunately, it is so steep that it is also quickly over and we could ascend the final steps to the summit.  Having taken in the views over to the Lakes and the Irish Sea, we separated from the Three Peaks routes and the hundreds of participants, and hoped none of them were following us as we headed south.
 
-After a short drop, the path followed a ridge to Little Ingleborough before dropping down steps towards the pot hole of Gaping Gill.  We stepped aside to allow four ~heroic~ insane mountain bikers race down the steps at breakneck speed.
+After a short drop, the path followed a ridge to Little Ingleborough before dropping down steps towards the pot hole of Gaping Gill.  We stepped aside to allow four (ahem) heroic mountain bikers race down the steps at breakneck speed.
 
 We didn't have time to exploit the open day at Gaping Gill, which was a shame or not, depending on your love of sitting alone on a bosun's chair to be dropped the best part of 100m into a hole that, throughout much of the year, is completely flooded.
 
@@ -107,7 +107,7 @@ Leaving Clapham via the foot tunnel next to the church, we headed up the stony p
 
 We turned east onto the splendidly-named path of Sulber Nick to drop into Horton.  Here, as we passed where the cars were parked, we lost a couple of the group, as they had to be back home earlier.  The rest of us happily emptied our packs into the cars and set off for Pen-y-ghent.
 
-We took the route to Horton Bridge and the church, to turn onto the road around to Brackenbottom.  Here, the path sets off directly up the hill.  It's a fairly stiff climb but much less difficult than Ingleborough.  Just before the summit, it turns 90 degrees to the north and becomes a well-defined scramble.  When I'd done this previously, Id remembered it to be a bit wilder.  It's likely that the poularity of the Three Peaks Challenge has led to some path improvements in the preceding few years.
+We took the route to Horton Bridge and the church, to turn onto the road around to Brackenbottom.  Here, the path sets off directly up the hill.  It's a fairly stiff climb but much less difficult than Ingleborough.  Just before the summit, it turns 90 degrees to the north and becomes a well-defined scramble.  When I'd done this previously, I'd remembered it to be a bit wilder.  It's likely that the poularity of the Three Peaks Challenge has led to some path improvements in the intervening few years.
 
 Once we'd had a drink and a snack and lain on the grass at the top, we followed the main trail to the north and then west back down into Horton to pick up the cars and head for home.
 
