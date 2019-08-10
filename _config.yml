@@ -43,7 +43,7 @@ owner:
     ad-client: 
     ad-slot: 
   instagram: goochjs
-  lastfm: goochjs
+  lastfm: #username goochjs
   soundcloud: goochjs
   bing-verify: 
   github: goochjs
