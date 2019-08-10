@@ -118,7 +118,7 @@ Once we'd had a drink and a snack and lain on the grass at the top, we followed 
 [first time we went to the Dales]: {% post_url 2012-09-23-dales-horton-settle-malham-gargrave %}
 [Kirkby Stephen Hostel]: <http://www.kirkbystephenhostel.co.uk>
 [Mango Tree]: <https://www.facebook.com/mangitreekirkbystephen/>
-[Black Bull]: <https://www.theblackbullsedbergh.co.uk/>
+[The Black Bull]: <https://www.theblackbullsedbergh.co.uk/>
 [The George and Dragon]: <https://www.facebook.com/George-and-Dragon-Inn-530646410291624/>
 [Stone Close]: <https://stoneclose.com/>
 [Old Hill Inn]: <https://oldhillinningleton.co.uk/>
