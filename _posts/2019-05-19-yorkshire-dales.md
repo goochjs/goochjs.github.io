@@ -53,7 +53,7 @@ We then hopped into the cars and drove to the station at Horton, to catch a trai
 
 ![Map Howgill Fells to Dent](/images/map-howgill-dent.png)
 
-After breakfast in the very welcoming Kirkby Stephen Hostel, a converted chapel, we had booked a minibus taxi to take us to the "hamlet" of Bowderdale, six miles west along the A685.  This was a bit of an arbitrary choice, as the driver effectively dropped us on the edge of a field, almost in the middle of a herd of cows.  From here, the path set off south, smoothly climbing up the west side of Bowderdale itself.
+After breakfast in the very welcoming [Kirkby Stephen Hostel], a converted chapel, we had booked a minibus taxi to take us to the "hamlet" of Bowderdale, six miles west along the A685.  This was a bit of an arbitrary choice, as the driver effectively dropped us on the edge of a field, almost in the middle of a herd of cows.  From here, the path set off south, smoothly climbing up the west side of Bowderdale itself.
 
 In the next few hours, we saw only one other person and felt as if we had a vast expanse of hillsides to ourselves.  Similarly to the remnants of ox-bow lakes we saw on the second half of the [Fairfield Horseshoe], we were treated to a geography lesson such as the view down the perfect U-shaped valley of Langdale (NB not the same Langdale as in the Lake District).
 
