@@ -104,7 +104,7 @@ I don't want to say that the last day was more of the same, as that sounds as if
 
 To reach the ridge, we crossed Lewes to leave the town heading north-west, passing by some of the sites where the [Battle of Lewes] took place.  After the initial climb, the track levelled out a little.  We actually kept rising for six miles to the high point at Ditchling Beacon, however, where one of our party had flashbacks to when he crossed over it on a bike as part of the [London to Brighton] cycle ride.  We paused at the beacon for a drink and a snack and found ourselves surrounded by swooping house martins (my initial erroneous identification of them having been "swiftly" corrected).
 
-Shortly after the beacon, we left the South Downs Way to take a path that began to fall until it passed the Clayton windmills known as Jack and Jill.  We stopped to particlarly admire whichever one was the post mill (Jill, apparently) before picking up the path into Clayton itself.  As it was lunchtime, we had a sandwich in [The Jack and Jill Inn] before walking next to the railway line for the last easy mile north into Hassocks.
+Shortly after the beacon, we left the South Downs Way to take a path that began to fall until it passed the Clayton windmills known as Jack and Jill.  We stopped to particularly admire whichever one was the post mill (Jill, apparently) before picking up the path into Clayton itself.  As it was lunchtime, we had a sandwich in [The Jack and Jill Inn] before walking next to the railway line for the last easy mile north into Hassocks.
 
 After a brief consultation to ensure everyone would be able to get home through the typical train service disruption, we said our farewells and headed home.
 
