@@ -19,7 +19,7 @@ I spend a weekend or two a year walking with friends.  We generally try to do a 
 
 I live in a nice Georgian market town called Ampthill, which is in Bedfordshire, a mildly neglected part of the UK.  It's not quite in East Anglia; it's not one of the home counties; it's not in the Midlands and it's not in the South-East.  I rather like it.
 
-In my spare time, I play the guitar.  After three decades of raucousness, I now predominantly play as part of an acoustic duo, imaginatively entitled [Natalie and Jeremy][NatalieAndJeremy].
+In my spare time, I play the guitar.  After three decades of raucousness, I now predominantly play fingerstyle acoustic, just like my daddy done.
 
 
 ## Contact Me
@@ -29,4 +29,3 @@ Amongst other places, you can occasionally find me on [Twitter][Twitter], [Faceb
 [Twitter]: https://twitter.com/goochjs
 [Facebook]: https://www.facebook.com/goochjs
 [LinkedIn]: https://www.linkedin.com/in/jeremygooch
-[NatalieAndJeremy]: http://www.natalieandjeremy.co.uk
