@@ -24,7 +24,7 @@ In my spare time, I play the guitar.  After three decades of raucousness, I now 
 
 ## Contact Me
 
-Amongst other places, you can occasionally find me on [Twitter][Twitter], [Facebook][Facebook] and [LinkedIn][LinkedIn].
+Amongst other places, you can occasionally find me on <a rel="me" href="https://mas.to/@goochjs">Mastodon</a> and [Twitter][Twitter] and, less often, on [Facebook][Facebook] and [LinkedIn][LinkedIn].
 
 [Twitter]: https://twitter.com/goochjs
 [Facebook]: https://www.facebook.com/goochjs
