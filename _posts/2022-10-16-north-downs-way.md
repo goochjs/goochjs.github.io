@@ -59,7 +59,7 @@ First of all, however, we had to cross Guildford again to pick up the river and 
 
 Seven miles after setting off, we dropped off the ridge to get to [The Dabbling Duck] in Shere where, in contrast to the day before, appetites were sated by a pleasant selection of sandwiches.  It was then a bit of a slog to get back up onto the official route via a rocky track.   This then continued to be within woodland but was increasingly punctuated by pill boxes.  These are the remnants of World War II fortifications to keep the Germans out of London (had they chosen to invade from the south rather than just sail up the Thames, presumably).
 
-The views began to open out to the south and were frequently rather lovely.  After a couple of hours, we could see Dorking nestling below.  We dropped steeply off the ridge to cross a railway line and then mske our way across town to [The Queens Head] where we put our feet up before heading to the station and the train home.
+The views began to open out to the south and were frequently rather lovely.  After a couple of hours, we could see Dorking nestling below.  We dropped steeply off the ridge to cross a railway line and then make our way across town to [The Queens Head] where we put our feet up before heading to the station and the train home.
 
 ![Pill box](/images/pill-box.jpg)
 
