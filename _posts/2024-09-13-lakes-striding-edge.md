@@ -14,7 +14,7 @@ tags:
     fairfield,
   ]
 image:
-  feature: striding-edge.jpg
+  feature: striding-edge.png
   credit: Jeremy Gooch
 ---
 
