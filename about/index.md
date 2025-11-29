@@ -2,7 +2,7 @@
 layout: page
 title: About me
 tags: [about]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2025-11-29T10:20:07.573882-04:00
 comments: false
 image:
   feature: j_climbing.jpg
@@ -19,13 +19,15 @@ I spend a weekend or two a year walking with friends.  We generally try to do a 
 
 I live in a nice Georgian market town called Ampthill, which is in Bedfordshire, a mildly neglected part of the UK.  It's not quite in East Anglia; it's not one of the home counties; it's not in the Midlands and it's not in the South-East.  I rather like it.
 
-In my spare time, I play the guitar.  After three decades of raucousness, I now predominantly play fingerstyle acoustic, just like my daddy done.
+In my spare time, I play the guitar.  After three decades of raucousness, I now predominantly play fingerstyle acoustic, just like my daddy done.  You can hear some stuff that I've done on most streaming services or my [YouTube channel].
 
+- **Chalk & Cheese** - [Apple Music](https://music.apple.com/gb/artist/chalk-cheese/1772174697) / [Spotify](https://open.spotify.com/artist/13v0BKWwkDrpw2OTANZiij?si=-9-qK6qNS2qPMPwtxq4gnA)
+- **The Wellinsongs Brothers** - [Apple Music](https://music.apple.com/gb/artist/the-wellinsongs-brothers/1817585211) / [Spotify](https://open.spotify.com/artist/0ZkJFBHqppvtZ4GW9gIW4p?si=1rswKjv7TDm1QUPICv1cXw)
 
 ## Contact Me
 
-Amongst other places, you can occasionally find me on <a rel="me" href="https://mas.to/@goochjs">Mastodon</a> and [Twitter][Twitter] and, less often, on [Facebook][Facebook] and [LinkedIn][LinkedIn].
+Among other places, you can find me on the dread [Facebook] or [LinkedIn].
 
-[Twitter]: https://twitter.com/goochjs
+[YouTube channel]: https://www.youtube.com/@goochjs
 [Facebook]: https://www.facebook.com/goochjs
 [LinkedIn]: https://www.linkedin.com/in/jeremygooch
